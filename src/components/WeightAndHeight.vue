@@ -105,6 +105,7 @@ export default{
           }
         }
       }
+
       else if(this.weight == "" && this.height == ""){
         this.BMI = "Enter Your Weight And Height"
         this.status =""
